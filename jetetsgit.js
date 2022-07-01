@@ -1,2 +1,4 @@
    
-window.onload = (
+window.onload = ()=>{
+    aler('hello');
+}
